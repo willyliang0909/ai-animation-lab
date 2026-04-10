@@ -7,3 +7,7 @@
 [主角](/projects/project-horror-rootmate/workflow/lab1/step4/try1.md)
 
 [韻如](/projects/project-horror-rootmate/workflow/lab1/step4/try2.md)
+
+![step4_1](/projects/project-horror-rootmate/assets/lab1/step4_1.png)
+![step4_2](/projects/project-horror-rootmate/assets/lab1/step4_2.png)
+![step4_3](/projects/project-horror-rootmate/assets/lab1/step4_3.png)
