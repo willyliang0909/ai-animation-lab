@@ -9,6 +9,7 @@
 7. 生成對話語音
 8. 生成背景音樂
 
+> 實際執行到step 6 問題不小 -> 改試其他做法
 
 # REF
 [![](/projects/project-horror-rootmate/assets/ref/yt.png)](https://www.youtube.com/watch?v=6OBGTKzR2vM&list=PLKwGjDtcm73OeJxOz3_PNsdHokJ7obzuI&index=2)
