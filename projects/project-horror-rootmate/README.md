@@ -6,7 +6,10 @@
 
 <br>
 
-![flow](./assets/flow.png)
-https://labs.google/fx/zh/tools/flow/project/6e390e0e-fdca-4e8d-9ac2-4ac1787789dc
+[![flow](./assets/flow.png)](https://labs.google/fx/zh/tools/flow/project/6e390e0e-fdca-4e8d-9ac2-4ac1787789dc)
 
 [提示詞](https://docs.google.com/spreadsheets/d/1PmkzqV6P8UsqN913o4YvXXSo4Qeo3W9Rjcax0rHOUpc/edit?gid=948724919#gid=948724919)
+
+
+## 效果
+https://youtube.com/shorts/gZJfXUvow6k?feature=share
