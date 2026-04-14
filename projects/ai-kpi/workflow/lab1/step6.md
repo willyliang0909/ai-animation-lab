@@ -1,6 +1,6 @@
 # 分鏡生成
 
-![zopia_porint_multi_scene](/projects/ai-kpi/assets/ref/zopia_porint_multi_scene.png)
+![zopia_porint_multi_scene](/projects/ai-kpi/assets/lab1/zopia_porint_multi_scene.png)
 
 ```
 Scene: @image3 (开放办公区)中，@image1 (林哲)坐在靠近画面中部偏右的工位前，身体朝向桌面与@image4 (笔记本电脑)，面部微偏向屏幕；@image2 (小唐)起初在林哲左后方一排工位，随后滑椅靠近到林哲左侧半步，身体朝向林哲与屏幕；@image5 (监控大屏)位于工位区后上方，朝向整个办公区显示排名信息。

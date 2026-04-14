@@ -1,13 +1,13 @@
 # 角色及場景多視圖
 
-![zopia_char_小唐_多視圖](/projects/ai-kpi/assets/ref/zopia_char_小唐_多視圖.png)
+![zopia_char_小唐_多視圖](/projects/ai-kpi/assets/lab1/zopia_char_小唐_多視圖.png)
 
 
 ## 積分使用及promt參考
 
 | 用量 | 效果 |
 |---|---|
-|![zopia_porint_multi_char](/projects/ai-kpi/assets/ref/zopia_point_multi.png)|![zopia_porint_multi_promt](/projects/ai-kpi/assets/ref/zopia_porint_multi_char.png)|
+|![zopia_porint_multi_char](/projects/ai-kpi/assets/lab1/zopia_point_multi.png)|![zopia_porint_multi_promt](/projects/ai-kpi/assets/lab1/zopia_porint_multi_char.png)|
 
 
 ```

@@ -1,7 +1,7 @@
 # 分鏡規劃
 
 
-![zopia_scene](/projects/ai-kpi/assets/ref/zopia_scene.png)
+![zopia_scene](/projects/ai-kpi/assets/lab1/zopia_scene.png)
 
 | # | 描述 |
 |---|---|

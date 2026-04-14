@@ -2,14 +2,14 @@
 
 > 此步驟會消耗積分(要錢)
 
-![zopia_char_小唐](/projects/ai-kpi/assets/ref/zopia_char_小唐.png)
+![zopia_char_小唐](/projects/ai-kpi/assets/lab1/zopia_char_小唐.png)
 
 
 ## 積分使用及promt參考
 
 | 用量 | 效果 |
 |---|---|
-|![zopia_point_usage](/projects/ai-kpi/assets/ref/zopia_point_usage.png)|![zopia_point_char_promt](/projects/ai-kpi/assets/ref/zopia_point_char_promt.png)|
+|![zopia_point_usage](/projects/ai-kpi/assets/lab1/zopia_point_usage.png)|![zopia_point_char_promt](/projects/ai-kpi/assets/lab1/zopia_point_char_promt.png)|
 
 
 ```

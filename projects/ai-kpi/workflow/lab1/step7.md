@@ -1,6 +1,6 @@
 # 生成影片
 
-![zopia_video](/projects/ai-kpi/assets/ref/zopia_video.png)
+![zopia_video](/projects/ai-kpi/assets/lab1/zopia_video.png)
 
 ```
 Japanese anime, Shinkai
