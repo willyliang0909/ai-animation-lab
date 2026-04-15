@@ -27,3 +27,20 @@
 - text to image
 - image to video
 - 學習調整與ai溝通方式
+
+
+## timeline
+2026-04-06 嘗試使用google flow建立影片 [project-horror-rootmate/lab1](/projects/project-horror-rootmate/workflow/lab1)
+
+2026-04-08 開始建立影片，問題不少，主要是對流程不熟悉，需要的分鏡場景都未準備，另外語音也是個問題
+
+2026-04-13 嘗試使用其他平台(zopia)，整體介面完善可靠，生成的影片也包含語音且與畫面匹配，
+但免費額度不夠完成完整影片，需要再熟悉流程控制
+[ai-kpi/lab1](/projects/ai-kpi/workflow/lab1/)
+
+2026-04-14 參考zopia流程，重新嘗試[project-horror-rootmate/lab2](/projects/project-horror-rootmate/workflow/lab2)，
+效果不如lab1，並且需要判斷對話速度，目前語速過快，整體畫面邏輯沒有lab1那麼好
+
+2026-04-15 嘗試套用zopia流程到google平台，使用gemini規劃劇情、人物、場景、分鏡以及生成提示詞。
+使用flow產生圖片，效果上使用nano banana pro一致性最好，風格及人物，但有數量限制
+影片及語音還是個問題
