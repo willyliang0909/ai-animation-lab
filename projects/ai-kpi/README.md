@@ -5,7 +5,7 @@
 
 | 劇本 | 角色場景 | 分鏡 | 時間軸 |
 | --- | --- | --- | --- |
-|![zopia_script](/projects/ai-kpi/assets/ref/zopia_script.png)|![zopia_char](/projects/ai-kpi/assets/ref/zopia_char.png)|![zopia_scene](/projects/ai-kpi/assets/ref/zopia_scene.png)|![zopia_timeline](/projects/ai-kpi/assets/ref/zopia_timeline.png)|
+|![zopia_script](./assets/lab1/zopia_script.png)|![zopia_char](./assets/lab1/zopia_char.png)|![zopia_scene](./assets/lab1/zopia_scene.png)|![zopia_timeline](./assets/lab1/zopia_timeline.png)|
 
 
 ## 效果
